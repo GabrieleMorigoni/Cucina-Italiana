@@ -1,0 +1,112 @@
+*{
+  margin:0;  
+}
+
+body{
+    font-family: Corbel, Arial, sans-serif;
+    
+}
+
+/*  Header  */
+
+#header {
+    background-color:#f4e4a4;
+   
+
+}
+
+h1{
+    font-size: 35px;
+    color:#ce1212;
+    padding-top: 30px;
+   
+    
+}
+
+.Title {
+        color:#ce1212;
+}
+
+.subtitle {
+    color:#db3232;
+}
+
+h1,h2{
+    text-align: center;
+    padding:20px auto 10px auto;
+    margin-bottom: 20px;
+    
+}
+
+#nav {
+    background-color:#f4dd81;
+    text-align: center;
+    list-style: none;
+    padding: 20px;
+    
+}
+
+#nav li {
+    display: inline-block;
+    margin-left:30px;
+    
+}
+
+#nav li a {
+    color:#ce1212;
+    font-weight: bold;
+}
+
+#nav li a:hover{
+    color:#ea5959;
+}
+
+/*  CONTENT  */
+
+#content {
+    width: 800px;
+    margin:40px auto;
+}
+
+#content h3{
+    margin:20px auto;
+}
+
+.ricette{
+    width: 500px;
+    margin:30px auto 50px 100px;
+}
+
+.imma{
+    margin:30px auto 30px 40px;
+    border-radius: 5%;
+}
+
+h4{
+    margin-top:20px;
+    margin-bottom:20px;
+    color:#ea5959;
+}
+
+h3{
+    margin-left:20px;
+    font-weight: bold;
+    font-size: 22px;
+    color:#db3232;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+a{
+    color:#2b2727;
+    text-decoration: none;
+}
